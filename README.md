@@ -29,6 +29,8 @@ and secure:
   throws. This list was produced by Fabrice Verrac. It is delivered to you
   under the CC-BY-SA public license, version 3.0.
 
-http://world.std.com/~reinhold/diceware.html
-http://creativecommons.org/licenses/by/3.0
-http://creativecommons.org/licenses/by-sa/3.0/
+References
+==========
+- http://world.std.com/~reinhold/diceware.html
+- http://creativecommons.org/licenses/by/3.0
+- http://creativecommons.org/licenses/by-sa/3.0/
