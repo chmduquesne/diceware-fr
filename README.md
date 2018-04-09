@@ -1,6 +1,8 @@
 Français
 ========
 
+[![Join the chat at https://gitter.im/chmduquesne/diceware-fr](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/chmduquesne/diceware-fr?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Ce dépôt contient des listes de mots à utiliser avec la méthode diceware,
 un procédé simple pour générer un mot de passe facile à retenir et
 sécurisé:
