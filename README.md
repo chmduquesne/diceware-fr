@@ -13,6 +13,13 @@ sécurisé:
   obtenir en jets de 6 dés. Cette liste a été produite par Fabrice Verrac.
   Elle vous est fournie sous licence CC-BY-SA-3.0.
 
+Vous trouverez aussi dans le dossier [tails](tails) deux listes plus
+récentes, aimablement fournies par
+[Tango](https://gitlab.tails.boum.org/tails/tails/-/issues/20014) avec
+pour but de bénéficier à Tails OS (projet TOR). À sa demande, je les
+inclus dans ce dépôt de façon à ce que celles-ci puissent être utilisées
+par un maximum de personnes.
+
 English
 ========
 
@@ -28,6 +35,13 @@ and secure:
   finnish, polish, turkish, dutch, and japanese) to be obtained in 6-dices
   throws. This list was produced by Fabrice Verrac. It is delivered to you
   under the CC-BY-SA public license, version 3.0.
+
+You will also find in the [tails](tails) folder two more recent lists,
+kindly provided by
+[Tango](https://gitlab.tails.boum.org/tails/tails/-/issues/20014), in
+order to benefit Tails OS (TOR project). As per his request, I am
+including them in this repository so that they can be used by as many
+people as possible.
 
 References
 ==========
